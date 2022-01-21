@@ -47,5 +47,5 @@
 ---
 ### 三、粒子群算法
 
-
+`[x, fval] = particleswarm(fun, x0, lb, ub, options)`
 
