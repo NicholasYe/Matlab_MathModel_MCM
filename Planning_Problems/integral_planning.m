@@ -10,6 +10,7 @@ clc, clear all, close all
 % 4*x2+x3<=6
 % x1,x2,x3=0,1
 
+
 % 设定x1~x3约束为整数
 intcon = [1, 3];
 % 线性规划系数
