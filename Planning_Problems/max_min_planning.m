@@ -17,5 +17,3 @@ beq = 2.5;
 
 %% 函数求解
 [x, fval] = fminimax(minimaxMyfun, x0, A, b, Aeq, beq)
-
-
